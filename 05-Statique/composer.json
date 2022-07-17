@@ -1,0 +1,15 @@
+{
+    "name": "yanni/05-statique",
+    "autoload": {
+        "psr-4": {
+            "Classe\\": "class/"
+        }
+    },
+    "authors": [
+        {
+            "name": "YannickCourbic15987",
+            "email": "a.yacine2020@laposte.net"
+        }
+    ],
+    "require": {}
+}
